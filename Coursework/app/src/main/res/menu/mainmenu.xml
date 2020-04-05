@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/searchCurrentLocation"
+          android:title="Search by Current Location"/>
+    <item android:id="@+id/searchAddress"
+        android:title="Search by Address"/>
+    <item android:id="@+id/searchName"
+        android:title="Search by Name"/>
+    <item android:id="@+id/searchMostRecent"
+          android:title="Most recently added"/>
+</menu>
